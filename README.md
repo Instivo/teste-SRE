@@ -28,15 +28,15 @@ Configurar IAM roles corretamente para acessar AWS EKS e ECR.
 Configurar network policies para limitar o tráfego desnecessário.
 
 Diferenciais (Extras que contam pontos)
-✔ Configurar Auto Scaling baseado em métricas.
- ✔ Implementar Service Mesh com Istio ou Linkerd.
- ✔ Utilizar Terraform ou Helm para provisionamento.
- ✔ Criar logs estruturados e exportá-los para AWS CloudWatch.
- ✔ Criar uma pipeline de rollback em caso de falha no deploy.
+  ✔ Configurar Auto Scaling baseado em métricas.
+  ✔ Implementar Service Mesh com Istio ou Linkerd.
+  ✔ Utilizar Terraform ou Helm para provisionamento.
+  ✔ Criar logs estruturados e exportá-los para AWS CloudWatch.
+  ✔ Criar uma pipeline de rollback em caso de falha no deploy.
 
 Critérios de Avaliação
- ✅ Infraestrutura como Código (Helm/Terraform/Kustomize).
- ✅ Automação do pipeline CI/CD (GitHub Actions, ArgoCD).
- ✅ Monitoramento e Observabilidade (Prometheus/Grafana).
- ✅ Boas práticas de segurança (IAM, RBAC, Network Policies).
- ✅ Documentação clara e bem explicada.
+  ✅ Infraestrutura como Código (Helm/Terraform/Kustomize).
+  ✅ Automação do pipeline CI/CD (GitHub Actions, ArgoCD).
+  ✅ Monitoramento e Observabilidade (Prometheus/Grafana).
+  ✅ Boas práticas de segurança (IAM, RBAC, Network Policies).
+  ✅ Documentação clara e bem explicada.
